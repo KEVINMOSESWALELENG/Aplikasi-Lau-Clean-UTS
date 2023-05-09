@@ -1,0 +1,43 @@
+.navbar {
+  background-color: #e6e6e6;
+}
+
+#home {
+  background-image: url(https://lh5.googleusercontent.com/proxy/OUWVDfqxZEhMQd8p0mkT28N0Z9H8wIjNEfxbd5CsW_6J62UNYKYVMMzkYkiz0m5iDnuRIB_0I1gj7lQ79n-xnrXP8sqH1k9LvjSoILrHWPBMKWhF-JSRNsZUdQbLTDqYU36tSMpcpow=w1200-h630-p-k-no-nu);
+}
+
+#opening {
+  background-color: #f1f7f9;
+  padding-top: 6rem;
+  padding-bottom: 4rem;
+}
+
+#profil2 {
+  background-color: #e1ecf0;
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #c9e6c3;
+}
+
+#profil1 {
+  background-color: #fffde7;
+  padding-top: 6rem;
+}
+
+#Proyek {
+  background-color: #fffde7;
+  padding-top: 4rem;
+}
+
+#mesin {
+  background-color: #add7ee;
+  padding-top: 4rem;
+}
+
+.footer {
+  padding-top: 4rem;
+}
